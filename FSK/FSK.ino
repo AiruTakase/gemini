@@ -17,8 +17,8 @@
 */
 
 // include the library
-#include <RadioLib.h>
-
+#include </src/RadioLib.h>
+#include <Spresense.h>
 
 // SX1278 has the following connections:(Arduino MKR WAN 1310)
 // NSS pin:   7
