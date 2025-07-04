@@ -1,0 +1,2 @@
+# gemini
+geminiにデータを渡す
